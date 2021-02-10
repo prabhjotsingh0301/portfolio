@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+section{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#app{
+    background-color:aquamarine;
+}
+#game{
+    background-color:gainsboro
+}
+#chatbot{
+    background-color:darkkhaki
+}
+h1{
+    margin:0;
+    margin-bottom:20px;
+}
+img{
+    transition:transform 0.5s;
+}
+img:hover{
+    transform:scale(0.9)
+}
